@@ -1,0 +1,61 @@
+.rarity0 {
+    color: #a5a58d;
+    text-shadow: black 0px 0px 1px;
+}
+
+.rarity1 {
+    color: #adb5bd;
+    text-shadow: black 0px 0px 1px;
+}
+
+.rarity2 {
+    color: #e5e5e5;
+    text-shadow: black 0px 0px 2px;
+}
+
+.rarity3 {
+    color: #fefae0;
+    text-shadow: black 0px 0px 2px;
+}
+
+.rarity4 {
+    color: #f0f3bd;
+    text-shadow: black 0px 0px 2px;
+}
+
+.rarity5 {
+    color: #74c69d;
+    text-shadow: black 0px 0px 1px, #74c69d 0px 0px 2px;
+
+}
+
+.rarity6 {
+    color: #4ea8de;
+    text-shadow: black 0px 0px 1px, #4ea8de 0px 0px 2px;
+
+}
+
+.rarity7 {
+    color: #b5179e;
+    text-shadow: #b5179e 0px 0px 3px, white 0px 0px 2px;
+
+}
+
+.rarity8 {
+    color: #ffba08;
+    text-shadow: #ffbe0b 0px 0px 4px, white 0px 0px 2px;
+
+}
+
+.rarity9 {
+    color: #560bad;
+    text-shadow: #560bad 0px 0px 5px, white 0px 0px 1px;
+}
+
+.rarity10 {
+
+    text-shadow: #4cc9f0 0px 0px 4px, #ffbe0b 0px 0px 7px, black 0px 0px 1px;
+    color: #edf6f9;
+    
+
+}
