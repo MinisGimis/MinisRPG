@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Shadows+Into+Light&display=swap');
+ 
+* {
+  margin: 0;
+  font-family: "Bree Serif";
+  color: #030411;
+}
+.content {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.description {
+  font-family: 'Shadows Into Light';
+}
