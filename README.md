@@ -1,7 +1,7 @@
 # MinisRPG
 
 Basic Core Features for the website
-adventure (randomly pits the user against an enemy, battle proceeds like pokemon)\n
+adventure (randomly pits the user against an enemy, battle proceeds like pokemon)
 life skills (maybe like chopping, fishing, mining, etc, allows the user to perform some simple task to obtain some materials)
 crafting (user can use materials to create new materials/items)
 inventory (display all of user's current items, including currently equipped equipment, user can trash items at will)
