@@ -1,0 +1,33 @@
+GET http://localhost:5000/items/
+
+###
+
+GET http://localhost:5000/items/1
+
+###
+
+DELETE http://localhost:5000/items/2
+
+
+###
+
+POST http://localhost:5000/items/
+Content-Type: application/json
+
+{
+    "itemID": 2,
+    "name": "Kuku Eggshell",
+    "type": "material",
+    "rarity": 1,
+    "vendorPrice": 5,
+    "description": "The cracked eggshell of a Kuku Bird."
+}
+
+###
+
+PATCH http://localhost:5000/inventory/1
+Content-Type: application/json
+
+{
+    "rarity": 0
+}
